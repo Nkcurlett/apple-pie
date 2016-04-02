@@ -19,7 +19,7 @@ body {
 .text-vertical-center {
     display: table-cell;
     text-align: center;
-    vertical-align:top;
+    vertical-align:middle;
     color:yellow;
 }
 
@@ -99,7 +99,7 @@ hr.small {
 .sidebar-nav li a {
     display: block;
     text-decoration: none;
-    color: #999;
+    color: #29088A;
 }
 
 .sidebar-nav li a:hover {
